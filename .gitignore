@@ -1,0 +1,10 @@
+# Archivos temporales y secretos
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.streamlit/secrets.toml
+.DS_Store
+~$*.xlsx
+# ATENCIÓN: data/Seguimiento_FixPack13.xlsx se publica deliberadamente.
